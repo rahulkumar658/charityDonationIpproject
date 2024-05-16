@@ -10,7 +10,7 @@ export default function Footer() {
             <div className="my-6 text-base text-color f-f-l mx-4 opacity-60 text-center">
               <b>Address:</b> Chitkara University<br/>
               Baddi, Kalujhanda Road, CUHP - 174103 <br/>
-              <b>Email:</b> kumarpriyanshu.km@gmail.com<br/><b>Mobile:</b> +91 9431649864
+              <b>Email:</b> harmonyhands@gmail.com<br/><b>Mobile:</b> +91 1234567890
             </div>
             <div className="text-sm text-color mb-10 f-f-l self-center">
               <span className="text-sm">
@@ -20,7 +20,7 @@ export default function Footer() {
                   rel="noreferrer noopener"
                   className=" sm:text-center sm:text-base transition-all ease-in-out"
                 >
-                  {"</>"} with 💛 by Priyanshu Singh{" "}
+                  {"</>"} with 💛 by Harmony hands{" "}
                 </a>
               </span>
             </div>

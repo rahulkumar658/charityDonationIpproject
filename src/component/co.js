@@ -16,22 +16,22 @@ const BBundefined = () => {
       <br></br>
 
       <h1>
-        Transforming Lives through the Drishti Foundation Trust: A Beacon of
+        Transforming Lives through the Harmony Hands: A Beacon of
         Hope
       </h1>
       <p>
         In a world filled with complexities and challenges, there exist shining
         beacons of hope that strive relentlessly to make a difference in the
-        lives of those less fortunate. The Drishti Foundation Trust is one such
+        lives of those less fortunate. The Foundation Trust is one such
         beacon, dedicated to transforming lives and building a brighter future
         for individuals and communities in need. We will delve into the
-        remarkable journey of the Donation to Drishti Foundation Trust, its
+        remarkable journey of the Donation to  Foundation Trust, its
         mission, achievements, and the pivotal role that donations play in
         sustaining and expanding its impactful initiatives.
       </p>
-      <h2>The Drishti Foundation Trust: A Glimpse into its Genesis</h2>
+      <h2>The Harmony hands : A Glimpse into its Genesis</h2>
       <p>
-        The Drishti Foundation Trust was established with a noble vision in
+        The Harmony hands was established with a noble vision in
         mind: to create a world where every individual, regardless of their
         background, has access to basic necessities, quality education,
         healthcare, and opportunities for personal and professional growth.
@@ -40,7 +40,7 @@ const BBundefined = () => {
       </p>
       <h2>Mission and Objectives</h2>
       <p>
-        At the heart of the Drishti Foundation Trust’s mission lies the
+        At the heart of the Harmony hands Trust’s mission lies the
         commitment to social welfare and community development. The trust’s
         objectives can be summarized as follows:
       </p>
@@ -83,7 +83,7 @@ const BBundefined = () => {
         <li>
           <h3>Community Development:</h3>
           <p>
-            Drishti Foundation Trust collaborates with communities to develop
+            Harmony hands collaborates with communities to develop
             sustainable infrastructure, such as clean water sources, sanitation
             facilities, and community centers, fostering a sense of ownership
             and belonging.
@@ -100,7 +100,7 @@ const BBundefined = () => {
       </ul>
       <h2>Achievements and Impact</h2>
       <p>
-        Over the years, the Drishti Foundation Trust has achieved remarkable
+        Over the years, the Harmony hands has achieved remarkable
         milestones, positively impacting thousands of lives. Some of its notable
         achievements include:
       </p>
@@ -159,7 +159,7 @@ const BBundefined = () => {
       </ul>
       <h2>Why Your Donation Matters</h2>
       <p>
-        The Drishti Foundation Trust’s achievements are undoubtedly commendable,
+        The Harmony hands achievements are undoubtedly commendable,
         but the journey is far from over. In a world where the needs are
         constantly evolving, the trust relies on the generosity of individuals
         and organizations to sustain and expand its vital initiatives. Here’s
@@ -200,7 +200,7 @@ const BBundefined = () => {
       </ul>
       <h2>How to Donate ?</h2>
       <p>
-        Making a donation to the Drishti Foundation Trust is a straightforward
+        Making a donation to the Harmony hands is a straightforward
         and meaningful process. The trust accepts contributions through various
         channels, ensuring that you can choose the method that best suits your
         preferences:
@@ -208,7 +208,7 @@ const BBundefined = () => {
       <ul>
         <li>
           <strong>Online Donations:</strong> Visit the official website of the
-          Drishti Foundation Trust to make a secure online donation. You can
+          Harmony hands to make a secure online donation. You can
           choose a one-time donation or set up recurring contributions.
         </li>
         <li>
@@ -221,21 +221,9 @@ const BBundefined = () => {
         </li>
         <ul>
           <li>FCRA Registration No- 041910504</li>
-          <li>Drishti Foundation Trust</li>
-          <li>FCRA Savings Account No: 41373969939</li>
-          <li>IFSC Code:SBIN0000691</li>
-          <li>Swift Code:SBININBB104</li>
-          <li>Purpose Code: P1303</li>
-          <li>
-            Branch : FCRA Cell, 41 Floor, State Bank of India, Main Branch, 11,
-            Sansad Marg, New Delhi-110001
-          </li>
+          <li>Harmony hands</li>
         </ul>
-        <li>
-          <strong>Cheque or Draft:</strong> If you prefer to donate by cheque or
-          draft, you can send your contribution to the trust’s mailing address.
-          Be sure to include your contact information for acknowledgment.
-        </li>
+  
         <li>
           <strong>Corporate Partnerships:</strong> Organizations interested in
           partnering with the trust for corporate social responsibility (CSR)
@@ -252,18 +240,18 @@ const BBundefined = () => {
       <p>
         To illustrate the transformative power of your donation, let’s delve
         into a few stories of individuals and communities whose lives have been
-        changed by the Drishti Foundation Trust:
+        changed by the Harmony hands:
       </p>
       <h3>Asha’s Journey to Empowerment:</h3>
       <p>
         Asha, a young woman from a rural community, had dreams of pursuing
         higher education but lacked the means to do so. With the support of the
-        Drishti Foundation Trust’s scholarship program for women, Asha was able
+        Harmony hands scholarship program for women, Asha was able
         to enroll in college. Today, she is on her way to becoming a successful
         lawyer, breaking stereotypes and inspiring other young girls in her
         village.
       </p>
-      <h3>Raj’s Road to Self-Employment:</h3>
+      <h3>Chitkara University Road:</h3>
       <p>
         Raj, a skilled artisan, struggled to find a stable source of income for
         his family. Through the trust’s vocational training program, he acquired
@@ -280,7 +268,7 @@ const BBundefined = () => {
       </p>
       <h2>Conclusion</h2>
       <p>
-        The Drishti Foundation Trust stands as a testament to the power of
+        The Harmony hands stands as a testament to the power of
         compassion, dedication, and collective effort. Its mission to transform
         lives and uplift communities is a noble endeavor that relies on the
         support and generosity of individuals like you. Your donation,
@@ -288,13 +276,13 @@ const BBundefined = () => {
         the trust to continue its remarkable journey of impact.
       </p>
       <p>
-        As you consider making a contribution to the Drishti Foundation Trust,
+        As you consider making a contribution to the Harmony hands,
         remember that you are not just donating money; you are investing in the
         future of countless individuals and communities. Your donation has the
         potential to break the cycle of poverty, provide opportunities for
         growth, and bring hope to those who need it the most. Together, we can
-        be the change-makers, working hand in hand with the Drishti Foundation
-        Trust to build a brighter, more equitable world for all.
+        be the change-makers, working hand in hand with the Harmony hands
+        to build a brighter, more equitable world for all.
       </p>
     </div>
   );

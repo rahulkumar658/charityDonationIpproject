@@ -31,14 +31,7 @@ export default function Donate() {
   const [loading, setLoading] = useState(true);
   const paypalButtonContainer = useRef(null);
 
-  // useEffect(() => {
-  //   if (window.paypal) {
-  //     setLoading(false);
-  //     window.paypal
-  //       .Buttons(paypalButtonConfig)
-  //       .render(paypalButtonContainer.current);
-  //   }
-  // }, []);
+ 
 
   return (
     <div

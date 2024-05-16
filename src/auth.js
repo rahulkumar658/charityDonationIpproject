@@ -39,4 +39,4 @@ export const doSignInWithGoogle = async () => {
 //     return sendEmailVerification(auth.currentUser,{
 //         url: '${window.location.origin}/login'
 //     });
-//}
+// }
